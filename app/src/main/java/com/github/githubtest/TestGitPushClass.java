@@ -6,4 +6,7 @@ package com.github.githubtest;
 
 public class TestGitPushClass {
 
+    public void test(){
+        //此处对代码进行修改，然后branch和pull request
+    }
 }
